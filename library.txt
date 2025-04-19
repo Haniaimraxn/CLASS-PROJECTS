@@ -1,0 +1,23 @@
+[
+    {
+        "title": "Atomic Habits",
+        "author": "James Clear",
+        "year": 2018,
+        "genre": "self-help",
+        "read": true
+    },
+    {
+        "title": "To kill a Mokingbird",
+        "author": "Harper Lee",
+        "year": 1960,
+        "genre": "Fiction",
+        "read": true
+    },
+    {
+        "title": "1984",
+        "author": "George Orwell",
+        "year": 1949,
+        "genre": "Dystopian",
+        "read": true
+    }
+]
